@@ -36,19 +36,21 @@ Pour installer le projet, commencez par cloner le dépôt Git :
 
 ``bash
 git clone https://github.com/ton_utilisateur/nom_du_projet.git
+cd nom_du_projet
 ``
 
 
 
-cd nom_du_projet
 
 2. Rendre les Scripts Exécutables
    
 Assurez-vous que tous les scripts .sh sont exécutables :
 
-
-
+``bash
 chmod +x *.sh
+``
+
+
 
 
 🚀 Utilisation
