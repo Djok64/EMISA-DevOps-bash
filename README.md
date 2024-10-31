@@ -1,4 +1,4 @@
-### 🐧 Projet de Scripts Bash
+# 🐧 Projet de Scripts Bash
 
 📜 Description
 
