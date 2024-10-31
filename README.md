@@ -60,11 +60,11 @@ Chaque script inclus a une fonction spécifique. Voici comment utiliser le scrip
 
 Exécution du script principal
 
-bash
 
-
-
+``bash
 ./script_principal.sh [options]
+``
+
 
 Options
 
@@ -91,9 +91,9 @@ Surveillance des ressources CPU/Mémoire
 Pour surveiller les ressources système et enregistrer les informations dans un fichier log, exécutez :
 
 
-bash
-
+``bash
 ./monitoring.sh
+``
 
 Archivage de répertoire
 
@@ -102,8 +102,9 @@ Pour archiver un répertoire et afficher la taille de l'archive créée :
 
 bash
 
-
+``bash
 ./archive.sh mon_dossier
+``
 
 
 🤝 Contribution
