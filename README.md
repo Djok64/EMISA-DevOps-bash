@@ -1,18 +1,29 @@
 ### 🐧 Projet de Scripts Bash
 
 📜 Description
+
 Ce projet contient une série de scripts Bash pour l'administration système, tels que la surveillance des ressources (CPU et mémoire), l'archivage de fichiers, et la gestion des journaux. Ces outils sont conçus pour simplifier certaines tâches courantes et automatiser le monitoring des ressources système.
 
 📑 Table des Matières
+
 🎯 Prérequis
+
 ⚙️ Installation
+
 🚀 Utilisation
+
 🔧 Fonctionnalités
+
 📝 Exemples
+
 🤝 Contribution
+
 📄 Licence
+
 🎯 Prérequis
+
 Ce projet est compatible avec les systèmes Unix (Linux et macOS). Assurez-vous d'avoir les éléments suivants :
+
 
 Bash (version 4.0 ou supérieure)
 Git (optionnel, pour cloner le dépôt plus facilement)
