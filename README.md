@@ -58,7 +58,7 @@ Exécution du script principal
 
 bash
 
-$
+
 
 ./script_principal.sh [options]
 
