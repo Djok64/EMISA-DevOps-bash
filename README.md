@@ -26,8 +26,11 @@ Ce projet est compatible avec les systèmes Unix (Linux et macOS). Assurez-vous 
 
 
 Bash (version 4.0 ou supérieure)
+
 Git (optionnel, pour cloner le dépôt plus facilement)
+
 ⚙️ Installation
+
 1. Cloner le dépôt
 Pour installer le projet, commencez par cloner le dépôt Git :
 
