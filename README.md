@@ -34,9 +34,11 @@ Git (optionnel, pour cloner le dépôt plus facilement)
 1. Cloner le dépôt
 Pour installer le projet, commencez par cloner le dépôt Git :
 
-bash
-
+``bash
 git clone https://github.com/ton_utilisateur/nom_du_projet.git
+``
+
+
 
 cd nom_du_projet
 
